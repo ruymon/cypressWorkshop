@@ -1,0 +1,13 @@
+{
+  "name": "cypressWorkshop",
+  "version": "1.0.0",
+  "description": "EBAC Cypress Workshop Project",
+  "main": "index.js",
+  "repository": "https://github.com/ruymon/cypressWorkshop.git",
+  "author": "ruymon <ruystfrancis@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "cypress": "^8.0.0"
+  }
+}
