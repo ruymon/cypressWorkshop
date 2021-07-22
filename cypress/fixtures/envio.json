@@ -1,0 +1,14 @@
+{
+  "nome": "Jonh",
+  "sobrenome": "Doe",
+  "endereço": {
+    "pais": "Brasil",
+    "rua": "Rua do Comércio",
+    "numero": 0,
+    "cidade": "Barra do Brejo",
+    "estado": "Pernambuco",
+    "cep": "55332-970"
+  },
+  "telefone": "(40) 41629-3075",
+  "email": "jonhdoe@gmail.com"
+}
